@@ -1,0 +1,243 @@
+body {}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 3px;
+}
+
+h3 {
+  padding: 0;
+}
+
+h4 {
+  padding: 0.5rem o;
+}
+
+p {
+  color: white;
+}
+
+.row {
+  margin: 0px;
+}
+
+.container {
+  padding: 1% 3%;
+}
+
+/*nav bar*/
+
+.container-fluid {
+  padding: 5% 10%;
+}
+
+.navbar {
+  padding: 2% 10%;
+  background-color: #112d4e !important;
+}
+
+.nav-link {
+  font-weight: 700;
+  color: white;
+}
+
+/*search box*/
+
+.calign-p {
+  text-align: center;
+}
+
+.box {
+  background-image: url(../images/slides/index-bg.jpg);
+  height: 70%;
+  padding: 12% 12%;
+}
+
+.searchbox {
+  color: white;
+  background-color: rgba(100, 178, 205, 0.3);
+  padding: 5% 3%;
+}
+
+.form-inline {
+  padding: 2% 5%;
+}
+
+.search-panel {
+  text-align: center;
+}
+
+#city {
+  padding-left: 0px;
+}
+
+/*services*/
+
+#services {
+  padding: 5% 10%;
+  text-align: center;
+}
+
+.feature-box {
+  padding: 4% 3% 2%;
+}
+
+.service-title {
+  color: #3f72af;
+}
+
+.service-link {
+  color: #112d4e;
+}
+
+.fa-home {
+  color: #112d4e;
+  margin: auto;
+}
+
+/*card deck*/
+
+.card-deck{
+  margin-top: 1rem;
+}
+
+.rentals-card {
+  margin: 0px;
+  background-color: #3f72af;
+}
+
+.realestate-card {
+  margin: 0px;
+  background-color: white;
+}
+
+#rentaltop {
+  color: white;
+}
+
+#retop {
+  color: #112D4E;
+}
+
+.card-top {
+  margin: 2% 0px;
+}
+
+.card-button {
+  display: inline-block;
+  padding: 0.5 0;
+}
+
+/*testimonials*/
+
+#testimonials {
+  background-color: #dbe2ef;
+  text-align: center;
+}
+
+.carousel {
+  height: 400px;
+}
+
+.fa-star {
+  color: #ffd571;
+}
+
+.testimonial-text {
+  margin: 2rem 0;
+  color: #112d4e;
+}
+
+.customer-img {
+  width: 4rem;
+  border-radius: 100%;
+}
+
+.carousel-inner {
+  width: 60%;
+  margin: 0px auto;
+  padding: 5% 10%;
+}
+
+/*footer*/
+
+#footer {
+  background-color: #3f72af;
+}
+
+.footer2 {
+  background-color: #112d4e;
+}
+
+.footer-partner {
+  padding: 2% 0;
+}
+
+#apartment-title {
+  width: 100%;
+}
+
+.panel {
+  text-align: left;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  padding-left: 1rem;
+}
+
+.social {
+  text-align: right;
+}
+
+.social-icon {
+  color: white;
+}
+
+/*login page*/
+#login{
+  background-image: url(../images/slides/login-bg.jpg);
+  height: 650px;
+  padding-top: 100px;
+}
+
+.formspace {
+  width: 40%;
+  margin: 0 auto;
+  padding: 3% 5%;
+  background-color: rgb(86, 89, 94,0.6) ;
+}
+
+
+.loginform{
+  padding: 7% 5% 3%;
+
+}
+
+.loginform label{
+  color: white;
+}
+
+.loginform small{
+  padding-left: 5%;
+color:#f9f7f7 !important;
+}
+
+.loginform btn{
+  align-items: right;
+}
+
+/*community page*/
+
+.com-intro p{
+  margin-bottom: 0;
+width: initial;
+}
